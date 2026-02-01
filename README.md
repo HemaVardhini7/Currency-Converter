@@ -1,6 +1,6 @@
 # My Project
 
-This is a Game.
+This is a Currency Converter.
 
 ## Project Preview
 ![Preview](images/currencyConverter.png)
