@@ -1,10 +1,10 @@
 const BASE_URL = "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies";
 const dropdowns = document.querySelectorAll(".dropdown select");
-const btn = document.querySelector("form button")
+const btn = document.querySelector(".convert-btn")
 fromCurr = document.querySelector(".from select");
 toCurr = document.querySelector(".to select");
 let msg = document.querySelector(".msg");
-let amount = document.querySelector(".amount input");
+let amount = document.querySelector(".amount .amount-box input");
 
 amount.value="1";
 
